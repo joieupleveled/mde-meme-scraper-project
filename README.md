@@ -2,7 +2,7 @@
 
 TODO's 
 
-- [] Connect to the URL and request/fetch the HTML contents of the website from the URL
+-[] Connect to the URL and request/fetch the HTML contents of the website from the URL
 	• formynotesonly = html is a one big string
 - [] Save this to a string
 - [] Find the 'src' of the images and store the image URLs in an array of strings
